@@ -3,7 +3,7 @@ Python code for managing drug-drug interaction with user friendly interface usin
 # Drug Interaction Search
    
    ![Python](https://img.shields.io/badge/python-3.x-blue)
-   
+   ![Coverage](https://img.shields.io/badge/coverage-87%25-brightgreen)
    A Python project for searching drug interactions.
    
    ## Features
